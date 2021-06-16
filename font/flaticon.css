@@ -1,0 +1,57 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon";
+  src: url("./flaticon.ttf?704fb82b9b3697330748ec73c4498422") format("truetype"), url("./flaticon.woff?704fb82b9b3697330748ec73c4498422") format("woff"), url("./flaticon.woff2?704fb82b9b3697330748ec73c4498422") format("woff2"), url("./flaticon.eot?704fb82b9b3697330748ec73c4498422#iefix") format("embedded-opentype"), url("./flaticon.svg?704fb82b9b3697330748ec73c4498422#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-call:before {
+  content: "";
+}
+
+.flaticon-guarantee:before {
+  content: "";
+}
+
+.flaticon-speed:before {
+  content: "";
+}
+
+.flaticon-reliability:before {
+  content: "";
+}
+
+.flaticon-user-experience:before {
+  content: "";
+}
+
+.flaticon-microscope:before {
+  content: "";
+}
+
+.flaticon-blackboard:before {
+  content: "";
+}
+
+.flaticon-diagram:before {
+  content: "";
+}
+
+.flaticon-monitor:before {
+  content: "";
+}
+
+.flaticon-play-button:before {
+  content: "";
+}
+/*# sourceMappingURL=flaticon.css.map */
